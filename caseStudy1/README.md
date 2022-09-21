@@ -5,9 +5,6 @@
 * ROS
 * gazebo
 * ros-kortex
-* pytest
-* pytest-bdd
- 
 
 You can access a guideline for this installations (https://docs.google.com/presentation/d/1P1K28ihcsm6FGJCooZQ1cktJAYDkpnXx6-GcI8w_n1M/edit?usp=sharing)
 
