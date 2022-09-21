@@ -1,4 +1,4 @@
-# Case Study 1 - Without the Proposed Approach
+# Case Study 2 - Without the Proposed Approach
 
 # Requirements
 
