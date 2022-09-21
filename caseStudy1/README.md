@@ -26,4 +26,4 @@ You can access a guideline for this installations (https://docs.google.com/prese
 * Open another terminal and run ` rosrun caseStudy1 mission.py`
 
 
-https://youtu.be/J_Z30YM9zlk
+[![Watch the video] https://youtu.be/J_Z30YM9zlk
