@@ -6,5 +6,5 @@ Thus, we propose an approach that adapts and apply Automated Acceptance Testing 
 
 On this repository you will have access for the code used in our experiments that was illustrated by two case studies: CS1 and CS2
 
-In each CS there is a README.md to help you to execute the CS and also a video to illustrate the experimentation without our approach(Case Study 1) and 
+In each CS there is a README.md to help you to execute the CS and also a video to illustrate the experimentation without our approach (Case Study 1) and 
 with our approach (Case Study 2).
