@@ -24,3 +24,6 @@ You can access a guideline for this installations (https://docs.google.com/prese
 * Open a terminal and run ` roslaunch caseStudy1 spawn_kortex_robot.launch`
 * Open a terminal and run ` rosrun caseStudy1 box.py `
 * Open another terminal and run ` rosrun caseStudy1 mission.py`
+
+
+https://youtu.be/J_Z30YM9zlk
