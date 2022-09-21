@@ -27,3 +27,8 @@ You can access a guideline for this installations (https://docs.google.com/prese
 * The experiments was executing on PyCharm
 * Install the packages pytest, pytestbdd on PyCharm
 * Add this Additional Arguments in PyCharm  --html=Report.html --self-contained-html -s --count=5 --capture sys -rF -rP
+
+# Case Study 2
+
+[![Alt text](https://img.youtube.com/vi/9S0R0mGKA-I/0.jpg)](https://youtu.be/9S0R0mGKA-I)
+
